@@ -37,9 +37,9 @@ textarea {
 }
 
 .tag {
-  background-color: #f0932b;
+  background-color: #e8830f;
   color: #fff;
-  display: flex;
+  display: inline-block;
   justify-content: center;
   border-radius: 50px;
   padding: 10px;
